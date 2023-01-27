@@ -1,6 +1,6 @@
 # fyp_tourism
 
-A new Flutter project.
+A Final Year Project that using Flutter project (Mobile Application) .
 
 ## Getting Started
 
